@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Simple_Check
+namespace Statict_Methods_and_Classes
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            UsefulTool.sayThankYou("Nick");
         }
     }
 }

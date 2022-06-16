@@ -1,0 +1,16 @@
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.AssemblyInfoInputs.cache
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.AssemblyInfo.cs
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.exe
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.deps.json
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.runtimeconfig.json
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.runtimeconfig.dev.json
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.dll
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.pdb
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.dll
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\obj\Debug\net5.0\refint\ObjectOrientedProgramming.dll
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.pdb
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.genruntimeconfig.cache
+C:\Users\solan\source\repos\Simple Check\ObjectOrientedProgramming\obj\Debug\net5.0\ref\ObjectOrientedProgramming.dll

@@ -1,0 +1,16 @@
+C:\Users\solan\source\repos\Simple Check\Inherittance\bin\Debug\net5.0\Inherittance.exe
+C:\Users\solan\source\repos\Simple Check\Inherittance\bin\Debug\net5.0\Inherittance.deps.json
+C:\Users\solan\source\repos\Simple Check\Inherittance\bin\Debug\net5.0\Inherittance.runtimeconfig.json
+C:\Users\solan\source\repos\Simple Check\Inherittance\bin\Debug\net5.0\Inherittance.runtimeconfig.dev.json
+C:\Users\solan\source\repos\Simple Check\Inherittance\bin\Debug\net5.0\Inherittance.dll
+C:\Users\solan\source\repos\Simple Check\Inherittance\bin\Debug\net5.0\Inherittance.pdb
+C:\Users\solan\source\repos\Simple Check\Inherittance\obj\Debug\net5.0\Inherittance.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\Simple Check\Inherittance\obj\Debug\net5.0\Inherittance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\source\repos\Simple Check\Inherittance\obj\Debug\net5.0\Inherittance.AssemblyInfoInputs.cache
+C:\Users\solan\source\repos\Simple Check\Inherittance\obj\Debug\net5.0\Inherittance.AssemblyInfo.cs
+C:\Users\solan\source\repos\Simple Check\Inherittance\obj\Debug\net5.0\Inherittance.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\Simple Check\Inherittance\obj\Debug\net5.0\Inherittance.dll
+C:\Users\solan\source\repos\Simple Check\Inherittance\obj\Debug\net5.0\refint\Inherittance.dll
+C:\Users\solan\source\repos\Simple Check\Inherittance\obj\Debug\net5.0\Inherittance.pdb
+C:\Users\solan\source\repos\Simple Check\Inherittance\obj\Debug\net5.0\Inherittance.genruntimeconfig.cache
+C:\Users\solan\source\repos\Simple Check\Inherittance\obj\Debug\net5.0\ref\Inherittance.dll

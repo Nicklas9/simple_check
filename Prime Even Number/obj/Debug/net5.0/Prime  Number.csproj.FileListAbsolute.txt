@@ -1,0 +1,16 @@
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\bin\Debug\net5.0\Prime  Number.exe
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\bin\Debug\net5.0\Prime  Number.deps.json
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\bin\Debug\net5.0\Prime  Number.runtimeconfig.json
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\bin\Debug\net5.0\Prime  Number.runtimeconfig.dev.json
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\bin\Debug\net5.0\Prime  Number.dll
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\bin\Debug\net5.0\Prime  Number.pdb
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\obj\Debug\net5.0\Prime  Number.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\obj\Debug\net5.0\Prime  Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\obj\Debug\net5.0\Prime  Number.AssemblyInfoInputs.cache
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\obj\Debug\net5.0\Prime  Number.AssemblyInfo.cs
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\obj\Debug\net5.0\Prime  Number.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\obj\Debug\net5.0\Prime  Number.dll
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\obj\Debug\net5.0\refint\Prime  Number.dll
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\obj\Debug\net5.0\Prime  Number.pdb
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\obj\Debug\net5.0\Prime  Number.genruntimeconfig.cache
+C:\Users\solan\source\repos\Simple Check\Prime Even Number\obj\Debug\net5.0\ref\Prime  Number.dll

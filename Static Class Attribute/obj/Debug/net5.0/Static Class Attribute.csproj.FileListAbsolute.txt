@@ -1,0 +1,16 @@
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\bin\Debug\net5.0\Static Class Attribute.exe
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\bin\Debug\net5.0\Static Class Attribute.deps.json
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\bin\Debug\net5.0\Static Class Attribute.runtimeconfig.json
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\bin\Debug\net5.0\Static Class Attribute.runtimeconfig.dev.json
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\bin\Debug\net5.0\Static Class Attribute.dll
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\bin\Debug\net5.0\Static Class Attribute.pdb
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\obj\Debug\net5.0\Static Class Attribute.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\obj\Debug\net5.0\Static Class Attribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\obj\Debug\net5.0\Static Class Attribute.AssemblyInfoInputs.cache
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\obj\Debug\net5.0\Static Class Attribute.AssemblyInfo.cs
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\obj\Debug\net5.0\Static Class Attribute.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\obj\Debug\net5.0\Static Class Attribute.dll
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\obj\Debug\net5.0\refint\Static Class Attribute.dll
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\obj\Debug\net5.0\Static Class Attribute.pdb
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\obj\Debug\net5.0\Static Class Attribute.genruntimeconfig.cache
+C:\Users\solan\source\repos\Simple Check\Static Class Attribute\obj\Debug\net5.0\ref\Static Class Attribute.dll

@@ -1,0 +1,16 @@
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\bin\Debug\net5.0\Getters and Setters.exe
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\bin\Debug\net5.0\Getters and Setters.deps.json
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\bin\Debug\net5.0\Getters and Setters.runtimeconfig.json
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\bin\Debug\net5.0\Getters and Setters.runtimeconfig.dev.json
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\bin\Debug\net5.0\Getters and Setters.dll
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\bin\Debug\net5.0\Getters and Setters.pdb
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\obj\Debug\net5.0\Getters and Setters.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\obj\Debug\net5.0\Getters and Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\obj\Debug\net5.0\Getters and Setters.AssemblyInfoInputs.cache
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\obj\Debug\net5.0\Getters and Setters.AssemblyInfo.cs
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\obj\Debug\net5.0\Getters and Setters.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\obj\Debug\net5.0\Getters and Setters.dll
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\obj\Debug\net5.0\refint\Getters and Setters.dll
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\obj\Debug\net5.0\Getters and Setters.pdb
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\obj\Debug\net5.0\Getters and Setters.genruntimeconfig.cache
+C:\Users\solan\source\repos\Simple Check\Getters and Setters\obj\Debug\net5.0\ref\Getters and Setters.dll

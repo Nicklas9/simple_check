@@ -1,0 +1,16 @@
+C:\Users\solan\source\repos\Simple Check\Methods\bin\Debug\net5.0\Methods.exe
+C:\Users\solan\source\repos\Simple Check\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Users\solan\source\repos\Simple Check\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Users\solan\source\repos\Simple Check\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Users\solan\source\repos\Simple Check\Methods\bin\Debug\net5.0\Methods.dll
+C:\Users\solan\source\repos\Simple Check\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Users\solan\source\repos\Simple Check\Methods\obj\Debug\net5.0\Methods.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\Simple Check\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\source\repos\Simple Check\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Users\solan\source\repos\Simple Check\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Users\solan\source\repos\Simple Check\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\Simple Check\Methods\obj\Debug\net5.0\Methods.dll
+C:\Users\solan\source\repos\Simple Check\Methods\obj\Debug\net5.0\refint\Methods.dll
+C:\Users\solan\source\repos\Simple Check\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Users\solan\source\repos\Simple Check\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
+C:\Users\solan\source\repos\Simple Check\Methods\obj\Debug\net5.0\ref\Methods.dll
